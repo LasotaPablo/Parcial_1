@@ -23,3 +23,20 @@
 
 1570753630 /home/alumno/Parciales_Lasota/Parcial_1/Parcial_1/Clientes.h
 
+1570752254 source:/home/alumno/Parciales_Lasota/cualquier cosa/Parcial_1/Parcial_1/Parcial_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Clientes.h"
+	"utn.h"
+
+1570753630 /home/alumno/Parciales_Lasota/cualquier cosa/Parcial_1/Parcial_1/Parcial_1/Clientes.h
+
+1570571351 /home/alumno/Parciales_Lasota/cualquier cosa/Parcial_1/Parcial_1/Parcial_1/utn.h
+
+1570751155 source:/home/alumno/Parciales_Lasota/cualquier cosa/Parcial_1/Parcial_1/Parcial_1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
